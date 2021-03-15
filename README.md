@@ -2,4 +2,6 @@
 Tutorial first repository
 
 Make a branch 
-Make this change and commit
+Made this change and commited
+
+Make a new branch and commit again, delete branch.
